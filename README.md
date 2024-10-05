@@ -1,2 +1,2 @@
 # Fool
-Just a fun app
+Just a fun android app
